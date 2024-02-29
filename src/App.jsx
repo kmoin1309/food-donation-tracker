@@ -14,6 +14,8 @@ function App() {
       <Navbar />
       <Landing/>
       <Home/>
+      <br></br>
+      <Footer/>
 
       <Routes>
         <Route
@@ -30,7 +32,6 @@ function App() {
         />
       </Routes>
 
-      <Footer/>
     </div>
   );
 }
